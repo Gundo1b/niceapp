@@ -336,7 +336,7 @@ export default function GoalsScreen() {
               onPress={createGoal}
               disabled={!newGoalTitle || !selectedCategory}
             >
-              <Check size={20} color="#FFFFFF" />
+              <Check size={20} color="#ce0000ff" />
               <Text style={styles.createButtonText}>Create Goal</Text>
             </TouchableOpacity>
           </View>
