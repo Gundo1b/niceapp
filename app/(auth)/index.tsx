@@ -72,7 +72,7 @@ export default function AuthScreen() {
           <View style={styles.iconContainer}>
             <Target size={48} color={colors.primary} />
           </View>
-          <Text style={styles.title}>Life OS</Text>
+          <Text style={styles.title}>ELH</Text>
           <Text style={styles.subtitle}>
             Your Personal Operating System for Productivity
           </Text>
